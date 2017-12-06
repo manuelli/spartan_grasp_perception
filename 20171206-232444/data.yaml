@@ -1,0 +1,36 @@
+header:
+  object_name: oil_bottle
+images:
+  scan_left:
+    background:
+      depth:
+        filename: scan_left_depth_background.png
+      rgb:
+        filename: scan_left_rgb_background.png
+    foreground:
+      depth:
+        filename: scan_left_depth_foreground.png
+      rgb:
+        filename: scan_left_rgb_foreground.png
+  scan_right:
+    background:
+      depth:
+        filename: scan_right_depth_background.png
+      rgb:
+        filename: scan_right_rgb_background.png
+    foreground:
+      depth:
+        filename: scan_right_depth_foreground.png
+      rgb:
+        filename: scan_right_rgb_foreground.png
+  scan_top:
+    background:
+      depth:
+        filename: scan_top_depth_background.png
+      rgb:
+        filename: scan_top_rgb_background.png
+    foreground:
+      depth:
+        filename: scan_top_depth_foreground.png
+      rgb:
+        filename: scan_top_rgb_foreground.png
